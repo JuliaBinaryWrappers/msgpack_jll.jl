@@ -1,0 +1,143 @@
+[[msgpack]]
+arch = "aarch64"
+git-tree-sha1 = "10eb03f155e9f2ff427dbf9b3c4fe4d0e4533fe1"
+os = "macos"
+
+    [[msgpack.download]]
+    sha256 = "e1c7511ec29cb7c383c2c21ff4338bc3a61f3fed622f13ea7e78b6b31e70794f"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.aarch64-apple-darwin.tar.gz"
+[[msgpack]]
+arch = "aarch64"
+git-tree-sha1 = "4d853bee99e4cbb821f4e84dcef65efb5ed3c2b5"
+libc = "glibc"
+os = "linux"
+
+    [[msgpack.download]]
+    sha256 = "0c1fea7d339cfb249860f890795396fead76c85569a4af8cea74d41334e92cad"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.aarch64-linux-gnu.tar.gz"
+[[msgpack]]
+arch = "aarch64"
+git-tree-sha1 = "ce6642b371836fe8b7de81d1d6c9148868a1b116"
+libc = "musl"
+os = "linux"
+
+    [[msgpack.download]]
+    sha256 = "d3556d1cf88e7e4b1e73750d8612add3c00f977dd803194f9adfa3905d50e4d2"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.aarch64-linux-musl.tar.gz"
+[[msgpack]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ebeccf888832fb1385eab2a1655593a6cebad11c"
+libc = "glibc"
+os = "linux"
+
+    [[msgpack.download]]
+    sha256 = "6da746489392efa38743168d30330487e4f829d1260faa9357c43cbe2392c77f"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.armv6l-linux-gnueabihf.tar.gz"
+[[msgpack]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "118ab414fc12513842f211cafa10a76dc4de37c7"
+libc = "musl"
+os = "linux"
+
+    [[msgpack.download]]
+    sha256 = "9539e816016d55d1c29cf9b39948c09a1f10940f22d69633c56082e603169ef2"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.armv6l-linux-musleabihf.tar.gz"
+[[msgpack]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e08227267aef857788dbf52ec0de3c3a72ffd797"
+libc = "glibc"
+os = "linux"
+
+    [[msgpack.download]]
+    sha256 = "fc8ca349d2c84d649fff89fa3328122cf8707bbd66a9809b0b93ff700cdf1b1a"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.armv7l-linux-gnueabihf.tar.gz"
+[[msgpack]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "aa8ee9dcc99c04545bf933525d580419a4318068"
+libc = "musl"
+os = "linux"
+
+    [[msgpack.download]]
+    sha256 = "00888de962c6a19c53485b0fa54852606e9358db1e43894ee2d89a6c8ef24481"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.armv7l-linux-musleabihf.tar.gz"
+[[msgpack]]
+arch = "i686"
+git-tree-sha1 = "2074fe0f5ad2ee4a00efbdcf202cf023e422dffb"
+libc = "glibc"
+os = "linux"
+
+    [[msgpack.download]]
+    sha256 = "0673063bf1f267333a920ac622f06bf31a08eb3fe77a4440f89eda2b77ff1567"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.i686-linux-gnu.tar.gz"
+[[msgpack]]
+arch = "i686"
+git-tree-sha1 = "9368e1d556acf590692070de095eab2a5637a5c2"
+libc = "musl"
+os = "linux"
+
+    [[msgpack.download]]
+    sha256 = "eac05641a8bac2b4e3d2746c914047b26fd0eeb862297fab20c74de53abcdbb1"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.i686-linux-musl.tar.gz"
+[[msgpack]]
+arch = "i686"
+git-tree-sha1 = "85ecdefd6b25bf7dd1c06ebd2c568bfd3bde856d"
+os = "windows"
+
+    [[msgpack.download]]
+    sha256 = "e7b08ce2a78eff735bfc4c5c45c4ccb56cb9ac00486de2a9f26b7254f2839012"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.i686-w64-mingw32.tar.gz"
+[[msgpack]]
+arch = "powerpc64le"
+git-tree-sha1 = "52287a0f0d806fe066cb8365dc8458217926080c"
+libc = "glibc"
+os = "linux"
+
+    [[msgpack.download]]
+    sha256 = "0be3aaaa0e2b5b7f11c95474de049c401d117b03b4d6cbce45c2c381f8a6a5a5"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.powerpc64le-linux-gnu.tar.gz"
+[[msgpack]]
+arch = "x86_64"
+git-tree-sha1 = "eb1a7816fdf2d32bcc4e134a127eb4e359fd4b0e"
+os = "macos"
+
+    [[msgpack.download]]
+    sha256 = "9434e37e5f429f903a789bb79c27545a746a42441967b98d529d044483e4dcc7"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.x86_64-apple-darwin.tar.gz"
+[[msgpack]]
+arch = "x86_64"
+git-tree-sha1 = "961cf885fc0241df4847c9bd861e1b44b1289c14"
+libc = "glibc"
+os = "linux"
+
+    [[msgpack.download]]
+    sha256 = "0b0092b209da516c573a8c6eae3d2e7d0291b4e60e5b7d4e14f9e1f3628c5e5b"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.x86_64-linux-gnu.tar.gz"
+[[msgpack]]
+arch = "x86_64"
+git-tree-sha1 = "7b50523b1b85892055aa95e093c1f0bbe9f9d28d"
+libc = "musl"
+os = "linux"
+
+    [[msgpack.download]]
+    sha256 = "f6c239986b53da553d3efd4ca547598a1249dd94a819b1700d83f940f05cdf88"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.x86_64-linux-musl.tar.gz"
+[[msgpack]]
+arch = "x86_64"
+git-tree-sha1 = "de0ef01ff5f5e6677715ba9207d81a8f6d171c7c"
+os = "freebsd"
+
+    [[msgpack.download]]
+    sha256 = "14d4b10ff9741b19d5407b1c5ae93b4bf9f237bdde8f844b29aba192bf2a2c33"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.x86_64-unknown-freebsd.tar.gz"
+[[msgpack]]
+arch = "x86_64"
+git-tree-sha1 = "51522eac706101a424d2a7cf79ae2fee0e3c0e9a"
+os = "windows"
+
+    [[msgpack.download]]
+    sha256 = "81f5362ad3d45045e9b5917af4500346866d507d120b4327416747a6a00967ec"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_jll.jl/releases/download/msgpack-v3.0.1+0/msgpack.v3.0.1.x86_64-w64-mingw32.tar.gz"
